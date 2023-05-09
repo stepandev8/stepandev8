@@ -7,4 +7,4 @@
 A Frontend Developer by day and dreamer by night.
 - :zap: I like to keep up with technology.
 - :zzz: A good sleep is a sign of productive code!
-- :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-StepanChaban-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xxlnamne) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:xxlnamne@gmail.com)
+- :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-StepanChaban-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xxlnamne)
