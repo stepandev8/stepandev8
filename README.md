@@ -4,7 +4,7 @@
 
 ### :octocat: About me:
 
-A Frontend Developer by day and dreamer by night.
+Coding is my cardio.
 - :zap: I like to keep up with technology.
 - :zzz: A good sleep is a sign of productive code!
 - :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-StepanChaban-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xxlnamne)
